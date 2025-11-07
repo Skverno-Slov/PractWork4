@@ -2,7 +2,7 @@
 
 namespace PractWork4.Services
 {
-    public class NotificationService : INotificationService
+    public class NotificationService : IServiceNotification
     {
         public IEnumerable<Notification> FilterAndSort(
         IEnumerable<Notification> notifications,
