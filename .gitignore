@@ -1,0 +1,7 @@
+.vs/
+[Dd]ebug/
+[Rr]elease/
+*.suo
+*.user
+*.sln.lock
+*.lock
